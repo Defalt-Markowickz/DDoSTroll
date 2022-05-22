@@ -1,7 +1,7 @@
 # Install
 
-### git clone https://github.com/DefaltDrsk/DDoSTroll
+### 1. git clone https://github.com/DefaltDrsk/DDoSTroll
 
-### cd DDoSTroll
+### 2. cd DDoSTroll
 
-### python3 DDoSTroll
+### 3. python3 DDoSTroll
